@@ -1,0 +1,18 @@
+1.complete registration form-(html,css,nodejs,express,mongodb)
+https://www.youtube.com/watch?v=XZiFBlfluZk
+
+
+
+
+4.coffee website-nodejs and express(kabir)
+https://www.youtube.com/watch?v=Dkh2IjrAkVI
+
+5.build news website with node.js,express and ejs-wp rest API(kabir)(kabir)
+https://www.youtube.com/watch?v=EkQc-8uzxIA
+6.build and e- commerce website with python and django(kabir)
+
+https://www.youtube.com/watch?v=YZvRrldjf1Y
+7.complete full stack website dev.. php
+https://www.youtube.com/watch?v=jrYUUKh_lKg
+8.full stack web dev.. project like netflix
+https://www.youtube.com/watch?v=EKQCQL1G1JU
